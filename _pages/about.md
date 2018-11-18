@@ -57,7 +57,8 @@ Meiguang Jin, Michael Hirsch, Paolo Favaro
 
 * **Learning to Extract a Video Sequence from a Single Motion-Blurred Image**  
 Meiguang Jin, Givi Meishvili, Paolo Favaro  
-*IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2018 (Spotlight Presentation)*
+*IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2018 (Spotlight Presentation)*  
+[[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Jin_Learning_to_Extract_CVPR_2018_paper.pdf)
 
 * **Plenoptic Image Motion Deblurring**  
 Paramanand Chandramouli, Meiguang Jin,  Daniele Perrone, Paolo Favaro  
