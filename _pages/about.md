@@ -40,3 +40,9 @@ Work Experience
   * Machine Learning for Bioimae Analysis Group, Bioinformatics Institute, ASTAR
   * Project: Cellular Image Segmentation
   * Supervisor: Li Cheng
+
+Publications
+======
+* Normalized Blind Deconvolution
+Meiguang Jin, Stefan Roth, Paolo Favaro
+ECCV, 2018
