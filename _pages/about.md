@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year PhD student at the Computer Vision Group of Universität Bern under the advisement of Prof. Paolo Favaro. My research interests include Computer Vision, Computational Photography, and Machine Learning. ***I am on the job market***.
+I am a fourth-year PhD student at the [[Computer Vision Group]](http://www.cvg.unibe.ch/home/) of Universität Bern under the advisement of [[Prof. Paolo Favaro]](http://www.cvg.unibe.ch/people/favaro). My research interests include Computer Vision, Computational Photography, and Machine Learning. ***I am on the job market***.
 
 News
 ======
@@ -44,36 +44,36 @@ Work Experience
 Publications
 ======
 * **Normalized Blind Deconvolution**  
-Meiguang Jin, Stefan Roth, Paolo Favaro  
+Meiguang Jin, Stefan Roth, [[Prof. Paolo Favaro]](http://www.cvg.unibe.ch/people/favaro)  
 *European Conference on Computer Vision (**ECCV**), 2018*
 
 * **Learning to See through Reflections**  
-Meiguang Jin, Sabine Süsstrunk, Paolo Favaro  
+Meiguang Jin, Sabine Süsstrunk, [[Prof. Paolo Favaro]](http://www.cvg.unibe.ch/people/favaro)  
 *International Conference on Computational Photography (**ICCP**), 2018 (Oral Presentation)*
 
 * **Learning Face Deblurring Fast and Wide**  
-Meiguang Jin, Michael Hirsch, Paolo Favaro  
+Meiguang Jin, Michael Hirsch, [[Prof. Paolo Favaro]](http://www.cvg.unibe.ch/people/favaro)  
 *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR NTIRE**), 2018*
 
 * **Learning to Extract a Video Sequence from a Single Motion-Blurred Image**  
-Meiguang Jin, Givi Meishvili, Paolo Favaro  
+Meiguang Jin, Givi Meishvili, [[Prof. Paolo Favaro]](http://www.cvg.unibe.ch/people/favaro)  
 *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2018 (Spotlight Presentation)*  
 [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Jin_Learning_to_Extract_CVPR_2018_paper.pdf)
 
 * **Plenoptic Image Motion Deblurring**  
-Paramanand Chandramouli, Meiguang Jin,  Daniele Perrone, Paolo Favaro  
+Paramanand Chandramouli, Meiguang Jin,  Daniele Perrone, [[Prof. Paolo Favaro]](http://www.cvg.unibe.ch/people/favaro)  
 *IEEE ransactions on Image Processing (**TIP**), 2018*
 
 * **Deep Mean-Shift Priors for Image Restoration**  
-Siavash Bigdeli, Meiguang Jin, Matthias Zwicker, Paolo Favaro  
+Siavash Bigdeli, Meiguang Jin, Matthias Zwicker, [[Prof. Paolo Favaro]](http://www.cvg.unibe.ch/people/favaro)  
 *Conference on Neural Information Processing Systems (**NIPS**), 2017 (Spotlight Presentation)*
 
 * **Noise-Blind Image Deblurring**  
-Meiguang Jin, Stefan Roth, Paolo Favaro  
+Meiguang Jin, Stefan Roth, [[Prof. Paolo Favaro]](http://www.cvg.unibe.ch/people/favaro)  
 *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2017*
 
 * **Bilayer Blind Deconvolution with the Light Field Camera**  
-Meiguang Jin, Paramanand Chandramouli, Paolo Favaro  
+Meiguang Jin, Paramanand Chandramouli, [[Prof. Paolo Favaro]](http://www.cvg.unibe.ch/people/favaro)  
 *IEEE International Conference on Computer Vision (**ICCV workshop**), 2015*
 
 * **A Random-forest Random Field Approach for Cellular Image Segmentation**  
