@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year PhD student at the Computer Vision Group of Universität Bern under the advisement of Prof. Paolo Favaro. My research interests include Computer Vision, Computational Photography, and Machine Learning. I am on the job market.
+I am a fourth-year PhD student at the Computer Vision Group of Universität Bern under the advisement of Prof. Paolo Favaro. My research interests include Computer Vision, Computational Photography, and Machine Learning. ***I am on the job market***.
 
 News
 ======
