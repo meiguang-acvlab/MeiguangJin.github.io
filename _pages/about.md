@@ -43,39 +43,39 @@ Work Experience
 
 Publications
 ======
-* Normalized Blind Deconvolution  
+* **Normalized Blind Deconvolution**  
 Meiguang Jin, Stefan Roth, Paolo Favaro  
 *European Conference on Computer Vision (**ECCV**), 2018*
 
-* Learning to See through Reflections  
+* **Learning to See through Reflections**  
 Meiguang Jin, Sabine Süsstrunk, Paolo Favaro  
 *International Conference on Computational Photography (**ICCP**), 2018 (Oral Presentation)*
 
-* Learning Face Deblurring Fast and Wide  
+* **Learning Face Deblurring Fast and Wide**  
 Meiguang Jin, Michael Hirsch, Paolo Favaro  
 *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR NTIRE**), 2018*
 
-* Learning to Extract a Video Sequence from a Single Motion-Blurred Image  
+* **Learning to Extract a Video Sequence from a Single Motion-Blurred Image**  
 Meiguang Jin, Givi Meishvili, Paolo Favaro  
 *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2018 (Spotlight Presentation)*
 
-* Plenoptic Image Motion Deblurring  
+* **Plenoptic Image Motion Deblurring**  
 Paramanand Chandramouli, Meiguang Jin,  Daniele Perrone, Paolo Favaro  
 *IEEE ransactions on Image Processing (**TIP**), 2018*
 
-* Deep Mean-Shift Priors for Image Restoration  
+* **Deep Mean-Shift Priors for Image Restoration**  
 Siavash Bigdeli, Meiguang Jin, Matthias Zwicker, Paolo Favaro  
 *Conference on Neural Information Processing Systems (**NIPS**), 2017 (Spotlight Presentation)*
 
-* Noise-Blind Image Deblurring  
+* **Noise-Blind Image Deblurring**  
 Meiguang Jin, Stefan Roth, Paolo Favaro  
 *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2017*
 
-* Bilayer Blind Deconvolution with the Light Field Camera  
+* **Bilayer Blind Deconvolution with the Light Field Camera**  
 Meiguang Jin, Paramanand Chandramouli, Paolo Favaro  
 *IEEE International Conference on Computer Vision (**ICCV workshop**), 2015*
 
-* A Random-forest Random Field Approach for Cellular Image Segmentation  
+* **A Random-forest Random Field Approach for Cellular Image Segmentation**  
 Meiguang Jin, Lakshmi Narasimhan Govindarajan, Li Cheng  
 *IEEE International Symposium on Biomedical Imaging (**ISBI**), 2014*
 
@@ -83,6 +83,6 @@ Meiguang Jin, Lakshmi Narasimhan Govindarajan, Li Cheng
 Meiguang Jin, Byoung-Kwang Kim, Woo-Jin Song  
 *IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2014*
 
-* KNN-based Color Line Model for Image Matting  
+* **KNN-based Color Line Model for Image Matting**  
 Meiguang Jin, Byoung-Kwang Kim, Woo-Jin Song  
 *IEEE International Conference on Image Processing (**ICIP**), 2013 (Oral Presentation)*
