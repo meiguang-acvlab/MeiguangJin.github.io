@@ -44,5 +44,6 @@ Work Experience
 Publications
 ======
 * Normalized Blind Deconvolution  
-Meiguang Jin, Stefan Roth, Paolo Favaro
+Meiguang Jin, Stefan Roth, Paolo Favaro  
+*European Conference on Computer Vision (**ECCV**), 2018*
 
