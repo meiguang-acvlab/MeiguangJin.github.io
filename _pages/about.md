@@ -89,7 +89,7 @@ Siavash Bigdeli, [***Meiguang Jin***](https://meiguangjin.github.io/), [Matthias
 [[paper]](https://ieeexplore.ieee.org/document/6868103)
 
 * Adaptive Propagation-Based Method for Alpha Matting  
-[*Meiguang Jin*](https://meiguangjin.github.io/), Byoung-Kwang Kim, Woo-Jin Song  
+[***Meiguang Jin***](https://meiguangjin.github.io/), Byoung-Kwang Kim, Woo-Jin Song  
 *IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2014*  
 [[paper]](https://ieeexplore.ieee.org/document/6727525)
 
