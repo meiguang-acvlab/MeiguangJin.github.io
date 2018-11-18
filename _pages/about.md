@@ -45,3 +45,4 @@ Publications
 ======
 * Normalized Blind Deconvolution
 Meiguang Jin, Stefan Roth, Paolo Favaro
+
