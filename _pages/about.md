@@ -43,6 +43,6 @@ Work Experience
 
 Publications
 ======
-* Normalized Blind Deconvolution
+* Normalized Blind Deconvolution  
 Meiguang Jin, Stefan Roth, Paolo Favaro
 
