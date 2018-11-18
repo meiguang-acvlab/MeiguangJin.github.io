@@ -100,6 +100,6 @@ Siavash Bigdeli, [***Meiguang Jin***](https://meiguangjin.github.io/), [Matthias
 
 Teaching
 ======
-* 2017-2018:&nbsp; Advance Topics in Machine Learning (M. S. course)
+* 2017-2018:&nbsp; Advance Topics in Machine Learning &nbsp; (M. S. course)
 * &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2015:&nbsp; Convex Optimization &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (M. S. course)
 * 2015-2017:&nbsp; Machine Learning &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (B. S. course)
