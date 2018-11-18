@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year PhD student at the [[Computer Vision Group]](http://www.cvg.unibe.ch/home/) of Universität Bern under the advisement of [Prof. Paolo Favaro](http://www.cvg.unibe.ch/people/favaro). My research interests include Computer Vision, Computational Photography, and Machine Learning. ***I am on the job market***.
+I am a fourth-year PhD student at the [Computer Vision Group](http://www.cvg.unibe.ch/home/) of Universität Bern under the advisement of [Prof. Paolo Favaro](http://www.cvg.unibe.ch/people/favaro). My research interests include Computer Vision, Computational Photography, and Machine Learning. ***I am on the job market***.
 
 News
 ======
@@ -44,7 +44,7 @@ Work Experience
 Publications
 ======
 * **Normalized Blind Deconvolution**  
-Meiguang Jin, [Stefan Roth](https://www.visinf.tu-darmstadt.de/team_members/sroth/sroth.en.jsp), [Paolo Favaro](http://www.cvg.unibe.ch/people/favaro)  
+Meiguang Jin(https://meiguangjin.github.io/), [Stefan Roth](https://www.visinf.tu-darmstadt.de/team_members/sroth/sroth.en.jsp), [Paolo Favaro](http://www.cvg.unibe.ch/people/favaro)  
 *European Conference on Computer Vision (**ECCV**), 2018*
 
 * **Learning to See through Reflections**  
