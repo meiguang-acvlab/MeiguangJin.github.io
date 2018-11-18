@@ -59,6 +59,10 @@ Meiguang Jin, Michael Hirsch, Paolo Favaro
 Meiguang Jin, Givi Meishvili, Paolo Favaro  
 *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2018 (Spotlight Presentation)*
 
+* Plenoptic Image Motion Deblurring  
+Paramanand Chandramouli, Meiguang Jin,  Daniele Perrone, Paolo Favaro  
+*IEEE ransactions on Image Processing (**TIP**), 2018*
+
 * Deep Mean-Shift Priors for Image Restoration  
 Siavash Bigdeli, Meiguang Jin, Matthias Zwicker, Paolo Favaro  
 *Conference on Neural Information Processing Systems (**NIPS**), 2017 (Spotlight Presentation)*
@@ -67,22 +71,18 @@ Siavash Bigdeli, Meiguang Jin, Matthias Zwicker, Paolo Favaro
 Meiguang Jin, Stefan Roth, Paolo Favaro  
 *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2017*
 
-* Bilayer Blind Deconvo- lution with the Light Field Camera  
+* Bilayer Blind Deconvolution with the Light Field Camera  
 Meiguang Jin, Paramanand Chandramouli, Paolo Favaro  
 *IEEE International Conference on Computer Vision (**ICCV workshop**), 2015*
 
 * A Random-forest Random Field Approach for Cellular Image Segmentation  
 Meiguang Jin, Lakshmi Narasimhan Govindarajan, Li Cheng  
-* IEEE International Symposium on Biomedical Imaging (**ISBI**), 2014*
-
-* KNN-based Color Line Model for Image Matting  
-Meiguang Jin, Byoung-Kwang Kim, Woo-Jin Song  
-* IEEE International Conference on Image Processing (**ICIP**), 2013 (Oral Presentation)*
+*IEEE International Symposium on Biomedical Imaging (**ISBI**), 2014*
 
 * Adaptive Propagation-Based Method for Alpha Matting  
 Meiguang Jin, Byoung-Kwang Kim, Woo-Jin Song  
-* IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2014*
+*IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2014*
 
-* Plenoptic Image Motion Deblurring 
-Paramanand Chandramouli, Meiguang Jin,  Daniele Perrone, Paolo Favaro  
-* IEEE ransactions on Image Processing (**TIP**), 2018*
+* KNN-based Color Line Model for Image Matting  
+Meiguang Jin, Byoung-Kwang Kim, Woo-Jin Song  
+*IEEE International Conference on Image Processing (**ICIP**), 2013 (Oral Presentation)*
