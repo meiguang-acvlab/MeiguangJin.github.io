@@ -17,7 +17,7 @@ News
 * 07/2018: One paper accepted to **CVPR 2018 (Spotlight presentation)**
 * 07/2018: One paper accepted to **CVPR NTIRE workshop 2018**
 * 05/2018: One paper accepted to **ICCP 2018 (Oral presentation)**
-* 05/2018: Start my internship at **Hikvision Research America**
+* 05/2018: Start my internship at **Hikvision Research America, Santa Clara**
 * 04/2018: One journal paper accepted to **TIP**
 * 12/2017: One paper accepted to **NIPS 2017 (Spotlight presentation)**
 * 07/2017: One paper accepted to **CVPR 2017**
