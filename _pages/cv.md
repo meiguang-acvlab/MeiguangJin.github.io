@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Beijing University of Posts and Telecommunications, 2017-2011
+* B.S. in Beijing University of Posts and Telecommunications, 2007-2011
 * M.S. in Pohang University of Science and Technology, 2011-2013
 * Ph.D in Universität Bern, 2018 (expected)
 
