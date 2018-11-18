@@ -45,4 +45,3 @@ Publications
 ======
 * Normalized Blind Deconvolution
 Meiguang Jin, Stefan Roth, Paolo Favaro
-ECCV, 2018
