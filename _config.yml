@@ -85,8 +85,8 @@ author:
   bio              : "PhD student at University of Bern"
   location         : "Bern, Switzerland"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+#   googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            : "jin@inf.unibe.ch"
   uri              :
   bitbucket        :
   codepen          :
@@ -99,14 +99,14 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/meiguang-jin-52a2a060/"
+#   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+#   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+#   twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
