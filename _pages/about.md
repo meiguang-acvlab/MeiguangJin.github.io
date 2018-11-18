@@ -97,3 +97,9 @@ Siavash Bigdeli, [***Meiguang Jin***](https://meiguangjin.github.io/), [Matthias
 [***Meiguang Jin***](https://meiguangjin.github.io/), Byoung-Kwang Kim, Woo-Jin Song  
 *IEEE International Conference on Image Processing (**ICIP**), 2013 (Oral Presentation)*  
 [[paper]](https://ieeexplore.ieee.org/document/6738511)
+
+Teaching
+======
+* 2017-2018   Advance Topics in Machine Learning (M. S. course)
+* 2015        Convex Optimization (M. S. course)
+* 2015-2017   Machine Learning (B. S. course)
