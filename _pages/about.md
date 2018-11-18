@@ -44,40 +44,40 @@ Work Experience
 Publications
 ======
 * **Normalized Blind Deconvolution**  
-[*Meiguang Jin*](https://meiguangjin.github.io/), [Stefan Roth](https://www.visinf.tu-darmstadt.de/team_members/sroth/sroth.en.jsp), [Paolo Favaro](http://www.cvg.unibe.ch/people/favaro)  
+[***Meiguang Jin***](https://meiguangjin.github.io/), [Stefan Roth](https://www.visinf.tu-darmstadt.de/team_members/sroth/sroth.en.jsp), [Paolo Favaro](http://www.cvg.unibe.ch/people/favaro)  
 *European Conference on Computer Vision (**ECCV**), 2018*
 
 * **Learning to See through Reflections**  
-[*Meiguang Jin*](https://meiguangjin.github.io/), [Sabine Süsstrunk](https://ivrl.epfl.ch/people/people-susstrunk/), [Paolo Favaro](http://www.cvg.unibe.ch/people/favaro)  
+[***Meiguang Jin***](https://meiguangjin.github.io/), [Sabine Süsstrunk](https://ivrl.epfl.ch/people/people-susstrunk/), [Paolo Favaro](http://www.cvg.unibe.ch/people/favaro)  
 *International Conference on Computational Photography (**ICCP**), 2018 (Oral Presentation)*
 
 * **Learning Face Deblurring Fast and Wide**  
-[*Meiguang Jin*](https://meiguangjin.github.io/), [Michael Hirsch](https://ei.is.tuebingen.mpg.de/person/mhirsch), [Paolo Favaro](http://www.cvg.unibe.ch/people/favaro)  
+[***Meiguang Jin***](https://meiguangjin.github.io/), [Michael Hirsch](https://ei.is.tuebingen.mpg.de/person/mhirsch), [Paolo Favaro](http://www.cvg.unibe.ch/people/favaro)  
 *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR NTIRE**), 2018*
 
 * **Learning to Extract a Video Sequence from a Single Motion-Blurred Image**  
-[*Meiguang Jin*](https://meiguangjin.github.io/), Givi Meishvili, [Paolo Favaro](http://www.cvg.unibe.ch/people/favaro)  
+[***Meiguang Jin***](https://meiguangjin.github.io/), Givi Meishvili, [Paolo Favaro](http://www.cvg.unibe.ch/people/favaro)  
 *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2018 (Spotlight Presentation)*  
 [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Jin_Learning_to_Extract_CVPR_2018_paper.pdf)
 
 * **Plenoptic Image Motion Deblurring**  
-Paramanand Chandramouli, [*Meiguang Jin*](https://meiguangjin.github.io/),  [Daniele Perrone](https://danieleperrone.com/), [Paolo Favaro](http://www.cvg.unibe.ch/people/favaro)  
+Paramanand Chandramouli, [***Meiguang Jin***](https://meiguangjin.github.io/),  [Daniele Perrone](https://danieleperrone.com/), [Paolo Favaro](http://www.cvg.unibe.ch/people/favaro)  
 *IEEE ransactions on Image Processing (**TIP**), 2018*
 
 * **Deep Mean-Shift Priors for Image Restoration**  
-Siavash Bigdeli, [*Meiguang Jin*](https://meiguangjin.github.io/), [Matthias Zwicker](https://www.cs.umd.edu/~zwicker/), [Paolo Favaro](http://www.cvg.unibe.ch/people/favaro)  
+Siavash Bigdeli, [***Meiguang Jin***](https://meiguangjin.github.io/), [Matthias Zwicker](https://www.cs.umd.edu/~zwicker/), [Paolo Favaro](http://www.cvg.unibe.ch/people/favaro)  
 *Conference on Neural Information Processing Systems (**NIPS**), 2017 (Spotlight Presentation)*
 
 * **Noise-Blind Image Deblurring**  
-[*Meiguang Jin*](https://meiguangjin.github.io/), [Stefan Roth](https://www.visinf.tu-darmstadt.de/team_members/sroth/sroth.en.jsp), [Paolo Favaro](http://www.cvg.unibe.ch/people/favaro)  
+[***Meiguang Jin***](https://meiguangjin.github.io/), [Stefan Roth](https://www.visinf.tu-darmstadt.de/team_members/sroth/sroth.en.jsp), [Paolo Favaro](http://www.cvg.unibe.ch/people/favaro)  
 *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2017*
 
 * **Bilayer Blind Deconvolution with the Light Field Camera**  
-Meiguang Jin, Paramanand Chandramouli, [Paolo Favaro](http://www.cvg.unibe.ch/people/favaro)  
+[***Meiguang Jin***](https://meiguangjin.github.io/), Paramanand Chandramouli, [Paolo Favaro](http://www.cvg.unibe.ch/people/favaro)  
 *IEEE International Conference on Computer Vision (**ICCV workshop**), 2015*
 
 * **A Random-forest Random Field Approach for Cellular Image Segmentation**  
-[*Meiguang Jin*](https://meiguangjin.github.io/), Lakshmi Narasimhan Govindarajan, [Li Cheng](https://web.bii.a-star.edu.sg/~chengli/)  
+[***Meiguang Jin***](https://meiguangjin.github.io/), Lakshmi Narasimhan Govindarajan, [Li Cheng](https://web.bii.a-star.edu.sg/~chengli/)  
 *IEEE International Symposium on Biomedical Imaging (**ISBI**), 2014*
 
 * Adaptive Propagation-Based Method for Alpha Matting  
@@ -85,5 +85,5 @@ Meiguang Jin, Paramanand Chandramouli, [Paolo Favaro](http://www.cvg.unibe.ch/pe
 *IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2014*
 
 * **KNN-based Color Line Model for Image Matting**  
-[*Meiguang Jin*](https://meiguangjin.github.io/), Byoung-Kwang Kim, Woo-Jin Song  
+[***Meiguang Jin***](https://meiguangjin.github.io/), Byoung-Kwang Kim, Woo-Jin Song  
 *IEEE International Conference on Image Processing (**ICIP**), 2013 (Oral Presentation)*
