@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Meiguang Jin's homepage"
 excerpt: "Meiguang Jin's homepage"
 author_profile: true
 redirect_from: 
