@@ -1,13 +1,14 @@
 ---
 permalink: /
-title: "About Me"
+title: ""
 excerpt: "Meiguang Jin's homepage"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+About Me
+======
 I am a fourth-year PhD student at the [Computer Vision Group](http://www.cvg.unibe.ch/home/) of Universität Bern under the advisement of [Prof. Paolo Favaro](http://www.cvg.unibe.ch/people/favaro). My research interests include Computer Vision, Computational Photography, and Machine Learning. ***I am on the job market***.  
 
 News
