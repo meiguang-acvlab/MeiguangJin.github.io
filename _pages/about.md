@@ -44,7 +44,7 @@ Work Experience
 
 Publications
 ======
-* **Normalized Blind Deconvolution**  
+<img align="left" width="100" height="100" src="/images/profile.png">* **Normalized Blind Deconvolution**  
 [***Meiguang Jin***](https://meiguangjin.github.io/), [Stefan Roth](https://www.visinf.tu-darmstadt.de/team_members/sroth/sroth.en.jsp), [Paolo Favaro](http://www.cvg.unibe.ch/people/favaro)  
 *European Conference on Computer Vision (**ECCV**), 2018*  
 [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Meiguang_Jin_Normalized_Blind_Deconvolution_ECCV_2018_paper.pdf)
