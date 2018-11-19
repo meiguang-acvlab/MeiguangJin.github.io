@@ -59,8 +59,8 @@ Publications
 *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR NTIRE**), 2018*  
 [[paper]](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w13/Jin_Learning_Face_Deblurring_CVPR_2018_paper.pdf)[[project]](http://www.cvg.unibe.ch/media/project/jin/faceDeblur.html)
 
-* **Learning to Extract a Video Sequence from a Single Motion-Blurred Image**  
-<img align="left" width="150" height="100" src="/images/cvpr18.gif">[***Meiguang Jin***](https://meiguangjin.github.io/), Givi Meishvili, [Paolo Favaro](http://www.cvg.unibe.ch/people/favaro)  
+<img align="left" width="150" height="100" src="/images/cvpr18.gif">* **Learning to Extract a Video Sequence from a Single Motion-Blurred Image**  
+[***Meiguang Jin***](https://meiguangjin.github.io/), Givi Meishvili, [Paolo Favaro](http://www.cvg.unibe.ch/people/favaro)  
 *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2018 (Spotlight Presentation)*  
 [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Jin_Learning_to_Extract_CVPR_2018_paper.pdf)[[project]](https://github.com/MeiguangJin/Learning-to-Extract-a-Video-Sequence-from-a-Single-Motion-Blurred-Image)[[video]](http://www.cvg.unibe.ch/media/publications/video/video.zip)
 
