@@ -71,7 +71,7 @@ Paramanand Chandramouli, [***Meiguang Jin***](https://meiguangjin.github.io/),  
 * **Deep Mean-Shift Priors for Image Restoration**  
 Siavash Bigdeli, [***Meiguang Jin***](https://meiguangjin.github.io/), [Matthias Zwicker](https://www.cs.umd.edu/~zwicker/), [Paolo Favaro](http://www.cvg.unibe.ch/people/favaro)  
 *Conference on Neural Information Processing Systems (**NIPS**), 2017 (Spotlight Presentation)*  
-[[paper]](https://papers.nips.cc/paper/6678-deep-mean-shift-priors-for-image-restoration.pdf)
+[[paper]](https://papers.nips.cc/paper/6678-deep-mean-shift-priors-for-image-restoration.pdf)[[code]](https://github.com/siavashBigdeli/DMSP)
 
 * **Noise-Blind Image Deblurring**  
 [***Meiguang Jin***](https://meiguangjin.github.io/), [Stefan Roth](https://www.visinf.tu-darmstadt.de/team_members/sroth/sroth.en.jsp), [Paolo Favaro](http://www.cvg.unibe.ch/people/favaro)  
