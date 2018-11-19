@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "PhD student"
+# title                    : "PhD student"
 title_separator          : "Meiguang Jin"
 name                     : &name "Meiguang Jin"
 description              : &description "PhD student at Universität Bern"
