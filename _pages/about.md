@@ -9,7 +9,7 @@ redirect_from:
 ---
 About Me
 ======
-I am a fourth-year PhD student at the [Computer Vision Group](http://www.cvg.unibe.ch/home/) of Universität Bern under the advisement of [Prof. Paolo Favaro](http://www.cvg.unibe.ch/people/favaro). My research interests include Computer Vision, Computational Photography, and Machine Learning. ***I am on the job market***.  
+I am a final year PhD student at the [Computer Vision Group](http://www.cvg.unibe.ch/home/) of Universität Bern under the advisement of [Prof. Paolo Favaro](http://www.cvg.unibe.ch/people/favaro). My research interests include Computer Vision, Computational Photography, and Machine Learning. ***I am on the job market***.  
 
 News
 ======
@@ -105,3 +105,13 @@ Teaching
 * 2015-2017:&nbsp; Machine Learning
 * &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2015:&nbsp; Convex Optimization
 
+Professional Activities
+======
+* Conference Reviewer  
+CVPR 2019, ECCV 2018, ICCP 2018, ICCP 2017  
+* Journal Reviewer  
+Transactions on Pattern Analysis and Machine Intelligence (TPAMI)  
+International Journal of Computer Vision (IJCV)  
+IEEE Transactions on Image Processing (TIP)  
+IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)  
+Pattern Recognition (PR)
