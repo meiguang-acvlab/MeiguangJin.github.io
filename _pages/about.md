@@ -47,7 +47,7 @@ Professional Activities
 * Conference Reviewer  
 CVPR 2019, ECCV 2018, ICCP 2018, ICCP 2017  
 * Journal Reviewer  
-Transactions on Pattern Analysis and Machine Intelligence (TPAMI)  
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)  
 International Journal of Computer Vision (IJCV)  
 IEEE Transactions on Image Processing (TIP)  
 IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)  
