@@ -42,6 +42,17 @@ Work Experience
   * Project: Cellular Image Segmentation
   * Supervisor: [Li Cheng](https://web.bii.a-star.edu.sg/~chengli/)
 
+Professional Activities
+======
+* Conference Reviewer  
+CVPR 2019, ECCV 2018, ICCP 2018, ICCP 2017  
+* Journal Reviewer  
+Transactions on Pattern Analysis and Machine Intelligence (TPAMI)  
+International Journal of Computer Vision (IJCV)  
+IEEE Transactions on Image Processing (TIP)  
+IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)  
+Pattern Recognition (PR)
+
 Publications
 ======
 * **Normalized Blind Deconvolution**  
@@ -104,14 +115,3 @@ Teaching
 * 2017-2018:&nbsp; Advance Topics in Machine Learning
 * 2015-2017:&nbsp; Machine Learning
 * &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2015:&nbsp; Convex Optimization
-
-Professional Activities
-======
-* Conference Reviewer  
-CVPR 2019, ECCV 2018, ICCP 2018, ICCP 2017  
-* Journal Reviewer  
-Transactions on Pattern Analysis and Machine Intelligence (TPAMI)  
-International Journal of Computer Vision (IJCV)  
-IEEE Transactions on Image Processing (TIP)  
-IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)  
-Pattern Recognition (PR)
