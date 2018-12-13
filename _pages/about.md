@@ -64,7 +64,7 @@ Publications
 * **Learning to See through Reflections**  
 [***Meiguang Jin***](https://meiguangjin.github.io/), [Sabine Süsstrunk](https://ivrl.epfl.ch/people/people-susstrunk/), [Paolo Favaro](http://www.cvg.unibe.ch/people/favaro)  
 *International Conference on Computational Photography (**ICCP**), 2018 (Oral Presentation)*  
-[[paper]](https://ieeexplore.ieee.org/document/8368464?part=1)
+[[paper]](https://ieeexplore.ieee.org/document/8368464?part=1)[[project]](https://github.com/MeiguangJin/Learning-to-See-through-Reflections)
 
 * **Learning Face Deblurring Fast and Wide**  
 [***Meiguang Jin***](https://meiguangjin.github.io/), [Michael Hirsch](https://ei.is.tuebingen.mpg.de/person/mhirsch), [Paolo Favaro](http://www.cvg.unibe.ch/people/favaro)  
