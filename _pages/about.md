@@ -9,7 +9,7 @@ redirect_from:
 ---
 About Me
 ======
-I am currently working with [Prof. Paolo Favaro](http://www.cvg.unibe.ch/people/favaro) as a postdoc researcher at the [Computer Vision Group](http://www.cvg.unibe.ch/home/), Universität Bern, Switzerland . My research interests include Computer Vision, Computational Photography, and Machine Learning. ***I am on the job market***.  
+I am currently working with [Prof. Paolo Favaro](http://www.cvg.unibe.ch/people/favaro) as a postdoc researcher at the [Computer Vision Group](http://www.cvg.unibe.ch/home/), Universität Bern, Switzerland . My research interests include Computer Vision, Computational Photography, and Machine Learning. 
 
 News
 ======
