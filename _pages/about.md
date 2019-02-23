@@ -9,7 +9,8 @@ redirect_from:
 ---
 About Me
 ======
-I am currently working with [Prof. Paolo Favaro](http://www.cvg.unibe.ch/people/favaro) as a postdoc researcher at the [Computer Vision Group](http://www.cvg.unibe.ch/home/), Universität Bern, Switzerland . My research interests include Computer Vision, Computational Photography, and Machine Learning. 
+I am a research scientist at AutoNavi, Beijing. Before that I got my PhD from Universität Bern, Switzerland supervised by [Prof. Paolo Favaro](http://www.cvg.unibe.ch/people/favaro).  
+My research interests include Computer Vision and Deep Learning. 
 
 News
 ======
@@ -46,7 +47,7 @@ Work Experience
 Professional Activities
 ======
 * Conference Reviewer  
-CVPR 2019, ECCV 2018, ICCP 2018, ICCP 2017  
+ICCV 2019, CVPR 2019, ECCV 2018, ICCP 2018, ICCP 2017  
 * Journal Reviewer  
 IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)  
 International Journal of Computer Vision (IJCV)  
