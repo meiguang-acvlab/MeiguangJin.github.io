@@ -9,7 +9,7 @@ redirect_from:
 ---
 About Me
 ======
-I am a research scientist at AutoNavi, Beijing. Before that I got my PhD from Universität Bern, Switzerland supervised by [Prof. Paolo Favaro](http://www.cvg.unibe.ch/people/favaro).  
+I am a computer vision scientist at AutoNavi, Beijing. Before that I got my PhD from Universität Bern, Switzerland supervised by [Prof. Paolo Favaro](http://www.cvg.unibe.ch/people/favaro).  
 My research interests include Computer Vision and Deep Learning. 
 
 News
