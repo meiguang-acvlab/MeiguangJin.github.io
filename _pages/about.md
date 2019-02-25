@@ -14,8 +14,8 @@ My research interests include Computer Vision and Deep Learning.
 
 News
 ======
+* 03/2019: One paper accepted to **CVPR 2019**  
 * 11/2018: I successfully defended my PhD
-* 11/2018: One paper submitted to **CVPR 2019**
 * 09/2018: One paper accepted to **ECCV 2018**
 * 07/2018: One paper accepted to **CVPR 2018 (Spotlight presentation)**
 * 07/2018: One paper accepted to **CVPR NTIRE workshop 2018**
@@ -56,7 +56,12 @@ IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 Pattern Recognition (PR)
 
 Publications
-======
+======  
+* **Learning to Extract Flawless Slow Motion from Blurry Videos**  
+[***Meiguang Jin***](https://meiguangjin.github.io/), [Zhe Hu](https://eng.ucmerced.edu/people/zhu), [Paolo Favaro](http://www.cvg.unibe.ch/people/favaro)  
+*IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019*  
+[paper]  
+
 * **Normalized Blind Deconvolution**  
 [***Meiguang Jin***](https://meiguangjin.github.io/), [Stefan Roth](https://www.visinf.tu-darmstadt.de/team_members/sroth/sroth.en.jsp), [Paolo Favaro](http://www.cvg.unibe.ch/people/favaro)  
 *European Conference on Computer Vision (**ECCV**), 2018*  
