@@ -65,7 +65,7 @@ Publications
 * **Normalized Blind Deconvolution**  
 [***Meiguang Jin***](https://meiguangjin.github.io/), [Stefan Roth](https://www.visinf.tu-darmstadt.de/team_members/sroth/sroth.en.jsp), [Paolo Favaro](http://www.cvg.unibe.ch/people/favaro)  
 *European Conference on Computer Vision (**ECCV**), 2018*  
-[[paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Meiguang_Jin_Normalized_Blind_Deconvolution_ECCV_2018_paper.pdf)
+[[paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Meiguang_Jin_Normalized_Blind_Deconvolution_ECCV_2018_paper.pdf)[[project]](https://github.com/MeiguangJin/NBD)
 
 * **Learning to See through Reflections**  
 [***Meiguang Jin***](https://meiguangjin.github.io/), [Sabine Süsstrunk](https://ivrl.epfl.ch/people/people-susstrunk/), [Paolo Favaro](http://www.cvg.unibe.ch/people/favaro)  
