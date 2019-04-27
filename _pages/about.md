@@ -60,7 +60,7 @@ Publications
 * **Learning to Extract Flawless Slow Motion from Blurry Videos**  
 [***Meiguang Jin***](https://meiguangjin.github.io/), [Zhe Hu](https://eng.ucmerced.edu/people/zhu), [Paolo Favaro](http://www.cvg.unibe.ch/people/favaro)  
 *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019*  
-[paper]  
+[[paper]](https://github.com/MeiguangJin/slow-motion/blob/master/full_version.pdf)[[project]](https://github.com/MeiguangJin/slow-motion)
 
 * **Normalized Blind Deconvolution**  
 [***Meiguang Jin***](https://meiguangjin.github.io/), [Stefan Roth](https://www.visinf.tu-darmstadt.de/team_members/sroth/sroth.en.jsp), [Paolo Favaro](http://www.cvg.unibe.ch/people/favaro)  
