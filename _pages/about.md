@@ -9,12 +9,14 @@ redirect_from:
 ---
 About Me
 ======
-I am a computer vision scientist at AutoNavi, Beijing. Before that I got my PhD from Universität Bern, Switzerland supervised by [Prof. Paolo Favaro](http://www.cvg.unibe.ch/people/favaro).  
+I work on image/video enhancement problems at Taobao, Alibaba Group. Before that I got my PhD from Universität Bern, Switzerland supervised by [Prof. Paolo Favaro](http://www.cvg.unibe.ch/people/favaro).  
 My research interests include Computer Vision and Deep Learning. 
 
 News
 ======
-* 03/2019: One paper accepted to **CVPR 2019**  
+* 03/2022: One paper accepted to **CVPR 2022**
+* 03/2019: One paper accepted to **CVPR 2019** 
+* 02/2019: Join Alibaba Group
 * 11/2018: I successfully defended my PhD
 * 09/2018: One paper accepted to **ECCV 2018**
 * 07/2018: One paper accepted to **CVPR 2018 (Spotlight presentation)**
@@ -29,6 +31,14 @@ News
 
 Work Experience
 ======
+* June 2021 - Current:
+  * Taobao, Alibaba Group
+  * Project: Image/Video Enhancement for Taobao live/videos
+
+* Feb 2019 - May 2021: 
+  * Autonavi, Alibaba Group
+  * Project: Computer Vision for map production
+
 * May 2018 - July 2018: Research Intern
   * Hikvision Research America
   * Project: Video Super-resolution
@@ -47,7 +57,7 @@ Work Experience
 Professional Activities
 ======
 * Conference Reviewer  
-ICCV 2019, CVPR 2019, ECCV 2018, ICCP 2018, ICCP 2017  
+ICCV 2021, ICCV 2019, CVPR 2019-2022, ECCV 2018, ICCP 2018, ICCP 2017  
 * Journal Reviewer  
 IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)  
 International Journal of Computer Vision (IJCV)  
@@ -57,68 +67,68 @@ Pattern Recognition (PR)
 
 Publications
 ======  
+* **AdaInt: Learning Adaptive Intervals for 3D Lookup Tables on Real-time Image Enhancement**  
+*Canqian Yang, ***Meiguang Jin**, Xu Jia, Yi Xu, Ying Chen  
+**denotes equal contribution to this work and are listed in alphabetical order*  
+*IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2022*  
+[[paper]](https://arxiv.org/abs/2204.13983)[[project]](https://github.com/ImCharlesY/AdaInt)
+
 * **Learning to Extract Flawless Slow Motion from Blurry Videos**  
-[***Meiguang Jin***](https://meiguangjin.github.io/), [Zhe Hu](https://eng.ucmerced.edu/people/zhu), [Paolo Favaro](http://www.cvg.unibe.ch/people/favaro)  
+**Meiguang Jin**, Zhe Hu, Paolo Favaro  
 *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019*  
 [[paper]](https://github.com/MeiguangJin/slow-motion/blob/master/full_version.pdf)[[project]](https://github.com/MeiguangJin/slow-motion)
 
 * **Normalized Blind Deconvolution**  
-[***Meiguang Jin***](https://meiguangjin.github.io/), [Stefan Roth](https://www.visinf.tu-darmstadt.de/team_members/sroth/sroth.en.jsp), [Paolo Favaro](http://www.cvg.unibe.ch/people/favaro)  
+**Meiguang Jin**, Stefan Roth, Paolo Favaro  
 *European Conference on Computer Vision (**ECCV**), 2018*  
 [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Meiguang_Jin_Normalized_Blind_Deconvolution_ECCV_2018_paper.pdf)[[project]](https://github.com/MeiguangJin/NBD)
 
 * **Learning to See through Reflections**  
-[***Meiguang Jin***](https://meiguangjin.github.io/), [Sabine Süsstrunk](https://ivrl.epfl.ch/people/people-susstrunk/), [Paolo Favaro](http://www.cvg.unibe.ch/people/favaro)  
+**Meiguang Jin**, Sabine Süsstrunk, Paolo Favaro  
 *International Conference on Computational Photography (**ICCP**), 2018 (Oral Presentation)*  
 [[paper]](https://ieeexplore.ieee.org/document/8368464?part=1)[[project]](https://github.com/MeiguangJin/Learning-to-See-through-Reflections)
 
 * **Learning Face Deblurring Fast and Wide**  
-[***Meiguang Jin***](https://meiguangjin.github.io/), [Michael Hirsch](https://ei.is.tuebingen.mpg.de/person/mhirsch), [Paolo Favaro](http://www.cvg.unibe.ch/people/favaro)  
+**Meiguang Jin**, Michael Hirsch, Paolo Favaro  
 *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR NTIRE**), 2018*  
 [[paper]](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w13/Jin_Learning_Face_Deblurring_CVPR_2018_paper.pdf)[[project]](http://www.cvg.unibe.ch/media/project/jin/faceDeblur.html)
 
 * **Learning to Extract a Video Sequence from a Single Motion-Blurred Image**  
-[***Meiguang Jin***](https://meiguangjin.github.io/), Givi Meishvili, [Paolo Favaro](http://www.cvg.unibe.ch/people/favaro)  
+**Meiguang Jin**, Givi Meishvili, Paolo Favaro  
 *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2018 (Spotlight Presentation)*  
 [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Jin_Learning_to_Extract_CVPR_2018_paper.pdf)[[project]](https://github.com/MeiguangJin/Learning-to-Extract-a-Video-Sequence-from-a-Single-Motion-Blurred-Image)[[video]](http://www.cvg.unibe.ch/media/publications/video/video.zip)
 
 * **Plenoptic Image Motion Deblurring**  
-Paramanand Chandramouli, [***Meiguang Jin***](https://meiguangjin.github.io/),  [Daniele Perrone](https://danieleperrone.com/), [Paolo Favaro](http://www.cvg.unibe.ch/people/favaro)  
+Paramanand Chandramouli, **Meiguang Jin**,  Daniele Perrone, Paolo Favaro  
 *IEEE ransactions on Image Processing (**TIP**), 2018*  
 [[paper]](http://www.cvg.unibe.ch/media/publications/pdf/PlenopticDeblur.pdf)[[project]](http://www.cvg.unibe.ch/media/project/chandramouli/PlenopticDeblurring.html)
 
 * **Deep Mean-Shift Priors for Image Restoration**  
-Siavash Bigdeli, [***Meiguang Jin***](https://meiguangjin.github.io/), [Matthias Zwicker](https://www.cs.umd.edu/~zwicker/), [Paolo Favaro](http://www.cvg.unibe.ch/people/favaro)  
+Siavash Bigdeli, **Meiguang Jin**, Matthias Zwicker, Paolo Favaro  
 *Conference on Neural Information Processing Systems (**NIPS**), 2017 (Spotlight Presentation)*  
 [[paper]](https://papers.nips.cc/paper/6678-deep-mean-shift-priors-for-image-restoration.pdf)[[project]](https://github.com/siavashBigdeli/DMSP)
 
 * **Noise-Blind Image Deblurring**  
-[***Meiguang Jin***](https://meiguangjin.github.io/), [Stefan Roth](https://www.visinf.tu-darmstadt.de/team_members/sroth/sroth.en.jsp), [Paolo Favaro](http://www.cvg.unibe.ch/people/favaro)  
+**Meiguang Jin**, Stefan Roth, Paolo Favaro  
 *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2017*  
 [[paper]](http://www.cvg.unibe.ch/media/publications/pdf/Jin_Paper1300_camera_ready_validated.pdf)[[supplementary material]](http://www.cvg.unibe.ch/media/publications/pdf/Jin_supplementary.pdf)
 
 * **Bilayer Blind Deconvolution with the Light Field Camera**  
-[***Meiguang Jin***](https://meiguangjin.github.io/), Paramanand Chandramouli, [Paolo Favaro](http://www.cvg.unibe.ch/people/favaro)  
+**Meiguang Jin**, Paramanand Chandramouli, Paolo Favaro  
 *IEEE International Conference on Computer Vision (**ICCV workshop**), 2015*  
 [[paper]](http://www.cvg.unibe.ch/media/publications/pdf/JinICCV2015.pdf)
 
 * **A Random-forest Random Field Approach for Cellular Image Segmentation**  
-[***Meiguang Jin***](https://meiguangjin.github.io/), Lakshmi Narasimhan Govindarajan, [Li Cheng](https://web.bii.a-star.edu.sg/~chengli/)  
+**Meiguang Jin**, Lakshmi Narasimhan Govindarajan, Li Cheng  
 *IEEE International Symposium on Biomedical Imaging (**ISBI**), 2014*  
 [[paper]](https://ieeexplore.ieee.org/document/6868103)
 
 * Adaptive Propagation-Based Method for Alpha Matting  
-[***Meiguang Jin***](https://meiguangjin.github.io/), Byoung-Kwang Kim, Woo-Jin Song  
+**Meiguang Jin**, Byoung-Kwang Kim, Woo-Jin Song  
 *IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2014*  
 [[paper]](https://ieeexplore.ieee.org/document/6727525)
 
 * **KNN-based Color Line Model for Image Matting**  
-[***Meiguang Jin***](https://meiguangjin.github.io/), Byoung-Kwang Kim, Woo-Jin Song  
+**Meiguang Jin**, Byoung-Kwang Kim, Woo-Jin Song  
 *IEEE International Conference on Image Processing (**ICIP**), 2013 (Oral Presentation)*  
 [[paper]](https://ieeexplore.ieee.org/document/6738511)
-
-Teaching
-======
-* 2017-2018:&nbsp; Advance Topics in Machine Learning
-* 2015-2017:&nbsp; Machine Learning
-* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2015:&nbsp; Convex Optimization
